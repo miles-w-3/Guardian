@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MILES-RBS</Machine>
+    <WindowsUser>miles</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>32a0eb6d-b64f-4295-b92c-ceaf316c40e5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Miles-W</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\miles\Desktop\Guardian\Guardian\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\Background.xnb">
+      <PackagePath>Content\Background.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\BBar.xnb">
+      <PackagePath>Content\BBar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\bigWrite.xnb">
+      <PackagePath>Content\bigWrite.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\boss1S.xnb">
+      <PackagePath>Content\boss1S.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\boss2S.xnb">
+      <PackagePath>Content\boss2S.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\bShoot.xnb">
+      <PackagePath>Content\bShoot.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\Bullet1.xnb">
+      <PackagePath>Content\Bullet1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\Bullet2.xnb">
+      <PackagePath>Content\Bullet2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\chargeBar.xnb">
+      <PackagePath>Content\chargeBar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\crosshair.xnb">
+      <PackagePath>Content\crosshair.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\ehit.xnb">
+      <PackagePath>Content\ehit.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\enemy1.xnb">
+      <PackagePath>Content\enemy1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\enemy2.xnb">
+      <PackagePath>Content\enemy2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\gg.xnb">
+      <PackagePath>Content\gg.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\healthBar.xnb">
+      <PackagePath>Content\healthBar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\howtoC.xnb">
+      <PackagePath>Content\howtoC.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\howtoK.xnb">
+      <PackagePath>Content\howtoK.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\iHealth.xnb">
+      <PackagePath>Content\iHealth.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\iShield.xnb">
+      <PackagePath>Content\iShield.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\loaded.xnb">
+      <PackagePath>Content\loaded.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\music.wma">
+      <PackagePath>Content\music.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\music.xnb">
+      <PackagePath>Content\music.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\myFont.xnb">
+      <PackagePath>Content\myFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\noCharge.xnb">
+      <PackagePath>Content\noCharge.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\pHit.xnb">
+      <PackagePath>Content\pHit.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\playerMiddle.xnb">
+      <PackagePath>Content\playerMiddle.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\playerShoot.xnb">
+      <PackagePath>Content\playerShoot.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\Quantum.otf">
+      <PackagePath>Content\Quantum.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\reloadBar.xnb">
+      <PackagePath>Content\reloadBar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\reloadBarF.xnb">
+      <PackagePath>Content\reloadBarF.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\shieldBar.xnb">
+      <PackagePath>Content\shieldBar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\shootLeft.xnb">
+      <PackagePath>Content\shootLeft.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\shootRight.xnb">
+      <PackagePath>Content\shootRight.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\t1shoot.xnb">
+      <PackagePath>Content\t1shoot.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\t2shoot.xnb">
+      <PackagePath>Content\t2shoot.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\win.xnb">
+      <PackagePath>Content\win.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Content\write.xnb">
+      <PackagePath>Content\write.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Guardian.dll">
+      <PackagePath>Guardian.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Guardian.exe">
+      <PackagePath>Guardian.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\Guardian.pdb">
+      <PackagePath>Guardian.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\2.rsrc">
+      <PackagePath>_Resources\2.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\3.rsrc">
+      <PackagePath>_Resources\3.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\4.rsrc">
+      <PackagePath>_Resources\4.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\5.rsrc">
+      <PackagePath>_Resources\5.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\miles\Desktop\Guardian\Guardian\bin\WindowsUniversal\x64\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.2\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.5\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

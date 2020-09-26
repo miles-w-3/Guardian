@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/Background.jpg</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/BBar.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/bigWrite.spritefont</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/boss1S.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/boss2S.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/bShoot.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/Bullet1.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/Bullet2.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/chargeBar.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/crosshair.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/ehit.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/enemy1.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/enemy2.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/gg.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/healthBar.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/howtoC.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/howtoK.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/iHealth.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/iShield.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/loaded.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/music.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/myFont.spritefont</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/noCharge.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/pHit.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/playerMiddle.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/playerShoot.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/reloadBar.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/reloadBarF.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/shieldBar.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/shootLeft.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/shootRight.png</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/t1shoot.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/t2shoot.mp3</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/win.PNG</File>
+    <File>C:/Users/miles/Desktop/Guardian/Guardian/Content/write.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
